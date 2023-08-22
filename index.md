@@ -1,2 +1,2 @@
-# page1
- page 1
+title: page 1
+theme: minimal
